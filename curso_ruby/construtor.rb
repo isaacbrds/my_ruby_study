@@ -32,4 +32,5 @@ puts Limpeza.vencimento
 
 # não acessivel de fora da classe
 limpeza.altera_preco 2.00
+
 puts limpeza.mostra_produto
